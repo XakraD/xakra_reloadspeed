@@ -8,4 +8,4 @@ This script will allow you to modify the reload speed of each weapon. Experience
 - Add 'ensure xakra_reloadspeed' in the 'Resources.cfg' document.
 - Adjust the reload speed of each weapon in the 'config.lua' file
 
-Video: 
+Video: https://youtu.be/YWT1IdJeOYQ
