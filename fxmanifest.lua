@@ -1,4 +1,4 @@
-author '<Discord:Xakra#8145:https://discord.gg/kmsqB6xQjH>'
+author 'Xakra'
 
 fx_version "cerulean"
 game "rdr3"
